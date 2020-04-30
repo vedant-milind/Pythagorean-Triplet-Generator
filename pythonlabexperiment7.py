@@ -1,8 +1,6 @@
 #SY ExTC
 #Experiment No. 7
 #10 points
-
-#Dipika Tele
 #Apr 20
 #Given a non negative integer A, print all the pairs of integers(a,b) such that
 #a and b are positive integers
